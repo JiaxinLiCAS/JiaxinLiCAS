@@ -15,7 +15,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 
 + **Jiaxin Li**, Ke Zheng, Zhi Li, Lianru Gao, Xiuping Jia. X-shaped Interactive Autoencoders with Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, early access.
 + **Jiaxin Li**, Danfeng Hong, Lianru Gao, Jing Yao, Ke Zheng, Bing Zhang, Jocelyn Chanussot. Deep learning in multimodal remote sensing data fusion: A comprehensive review[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 112: 102926.
-+ **Jiaxin Li**, Ke Zheng, Jing Yao, Lianru Gao, Danfeng Hong. Deep unsupervised blind hyperspectral and multispectral data fusion[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5. (\color{red}{ESI Highly cited Papers})
++ **Jiaxin Li**, Ke Zheng, Jing Yao, Lianru Gao, Danfeng Hong. Deep unsupervised blind hyperspectral and multispectral data fusion[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5. (**ESI Highly cited Papers**)
 + Lianru Gao, **Jiaxin Li**, Ke Zheng, Xiuping Jia. Enhanced Autoencoders with Attention-embedded Degradation Learning for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 1-17.
 + Bing Zhang, Lianru Gao, **Jiaxin Li**, Danfeng Hong, Ke Zheng. Advances and prospects in hyperspectral and multispectral remote sensing image super-resolution fusion[J]. Acta Geodaetica et Cartographica Sinica, 2023, 52(7), 1074-1089.
 [张兵，高连如，李嘉鑫，洪丹枫，郑珂，高/多光谱遥感图像超分辨率融合研究进展与展望，测绘学报，2023，52(7)：1074-1089]
