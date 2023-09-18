@@ -24,6 +24,8 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 + Chunyu Zhu, Shangqi Deng, **Jiaxin Li**, Ying Zhang, Liwei Gong, Liangbo Gao, Na Ta, Shengbo Chen, Qiong Wu. Hyperspectral and multispectral remote sensing image fusion using SwinGAN with joint adaptive spatial-spectral gradient loss function[J]. International Journal of Digital Earth, 2023, 16(1): 3580-3600.
 
 
+
+
 <!--
 **JiaxinLiCAS/JiaxinLiCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
