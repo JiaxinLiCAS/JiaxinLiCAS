@@ -1,4 +1,4 @@
-### Hi there, I'm [Jiaxin Li (李嘉鑫 in Chinese) WeChat: BatAug]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN))! 👋
+### Hi there, I'm [Jiaxin Li (李嘉鑫 in Chinese) WeChat: BatAug]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)) 
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 
