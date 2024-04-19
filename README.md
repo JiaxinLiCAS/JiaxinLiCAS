@@ -11,7 +11,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 - This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
 - This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
-$\color{red}{___Jiaxin Li___}$
+`Jiaxin Li`
 **Publications**:
 + $\color{red}{Jiaxin Li}$, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 + $\color{red}{Jiaxin Li}$, Ke Zheng, Zhi Li, Lianru Gao, Xiuping Jia. X-shaped Interactive Autoencoders with Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 1-17.
