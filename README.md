@@ -9,11 +9,11 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 📫 **How to reach me**:
 - ❗Wechat: BatAug
 - This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
-- This is my google scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
+- This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 $\color{red}{___Jiaxin Li___}$
 **Publications**:
-+ $\color{red}{___Jiaxin Li___}$, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
++ $\color{red}{Jiaxin Li}$, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 + $\color{red}{___Jiaxin Li___}$, Ke Zheng, Zhi Li, Lianru Gao, Xiuping Jia. X-shaped Interactive Autoencoders with Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 1-17.
 + $\color{red}{___Jiaxin Li___}$, Danfeng Hong, Lianru Gao, Jing Yao, Ke Zheng, Bing Zhang, Jocelyn Chanussot. Deep learning in multimodal remote sensing data fusion: A comprehensive review[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 112: 102926. (***ESI Highly cited Papers*** and ***ESI Hot Paper***)
 + $\color{red}{___Jiaxin Li___}, Ke Zheng, Jing Yao, Lianru Gao, Danfeng Hong. Deep unsupervised blind hyperspectral and multispectral data fusion[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5. (***ESI Highly cited Papers***)
