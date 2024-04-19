@@ -1,4 +1,4 @@
-![image](https://github.com/JiaxinLiCAS/JiaxinLiCAS/assets/96232678/3f010f5e-1552-421d-83e9-5fe989ef9285)# 欢迎添加我的微信WeChat 微信: BatAug，欢迎交流与合作
+# 欢迎添加我的微信WeChat 微信: BatAug，欢迎交流与合作
 ### Hi there, I'm [Jiaxin Li (李嘉鑫 in Chinese) WeChat 微信: BatAug]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)) 
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
