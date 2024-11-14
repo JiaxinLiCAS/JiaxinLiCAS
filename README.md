@@ -32,7 +32,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 + [15] Qiong Ran, Qiuhui Wang, Ke Zheng, `Jiaxin Li`. Multiscale Attention Spatiotemporal Fusion Model Based on Pyramidal Network Constraints[J]. IEEE Geoscience and Remote Sensing Letters, 2024, 21:1-5. [Paper link](https://ieeexplore.ieee.org/document/10608120)
 + [16] Minghua Wang, Bing Zhang, `Jiaxin Li`, Longfei Ren, Jocelyn Chanussot. A Feature Fusion-Based Transformer Network for Hyperspectral Super-Resolution[C]. 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023: 1-5. [Paper link](https://ieeexplore.ieee.org/abstract/document/10430564)
 + [17] Haoyang Yu, Zhixin Ling, Ke Zheng, `Jiaxin Li`, Siqi Liang, Lianru Gao. Unsupervised Dynamic Convolutional Neural Network Model for Hyperspectral and Multispectral Image Fusion[C]//IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6270-6273. [Paper link](https://ieeexplore.ieee.org/abstract/document/10282786)
-
++ [18] Haoyang Yu, Zhixin Ling, Ke Zheng, Lianru Gao, `Jiaxin Li`, Jocelyn Chanussot. Unsupervised Hyperspectral and Multispectral Image Fusion With Deep Spectral-Spatial Collaborative Constraint[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-16. [Paper link](https://ieeexplore.ieee.org/abstract/document/10703123) [Dataset](https://drive.google.com/drive/folders/1JLCCB6ld5R49HDLN5SsMISx1d0fuqRjO)
 
 <!--
 **JiaxinLiCAS/JiaxinLiCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
