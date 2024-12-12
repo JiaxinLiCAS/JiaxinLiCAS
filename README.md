@@ -14,6 +14,10 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 - This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 
+**Reports**:
+
++  [1] 西安交通大学《基于无监督深度学习的高光谱图像超分辨率融合研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xian-Jiaotong-University-PPT/blob/main/李嘉鑫-西安交通大学-高光谱超分2024.12.05.pdf)
+
 
 **Publications**:
 +  [1] `Jiaxin Li`, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 1-17. ( ***ESI Highly  cited  Papers*** ) [Paper link](https://ieeexplore.ieee.org/document/10504844) [Code](https://github.com/JiaxinLiCAS/M2U-Net)
