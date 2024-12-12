@@ -8,7 +8,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 
 📫 **How to reach me**:
 - ❗Wechat: BatAug
-<img src="wechat.png" width="200px"/>
+<img src="wechat.png" width="100px"/>
 
 - This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Li-Jiaxin-20)
 - This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
