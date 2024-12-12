@@ -3,13 +3,15 @@
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 
-🔭 **Reseach-wise, I mainly focus on**:
+🔭 **Research-wise, I mainly focus on**:
 - hyperspectral and multispectral data fusion
 
 📫 **How to reach me**:
 - ❗Wechat: BatAug
-- This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
-- This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
+<img src="wechat.png" width="200px"/>
+
+- This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Li-Jiaxin-20)
+- This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 
 
