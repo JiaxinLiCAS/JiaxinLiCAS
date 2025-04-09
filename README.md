@@ -1,13 +1,20 @@
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
-### Hi there, I'm [Jiaxin Li (李嘉鑫 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
+### 各位好，我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
 
-I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
 
-🔭 **Research-wise, I mainly focus on**:
-- hyperspectral and multispectral data fusion
+2016.09-2020.7 就读于重庆大学 土木工程学院 测绘工程专业
 
-📫 **How to reach me**:
-- ❗Wechat: BatAug
+From 2020.09 to 2025.07, I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)
+
+From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
+
+🔭 **我的研究方向（Research-wise, I mainly focus on）**:
+- 高光谱超分辨率融合（hyperspectral and multispectral data fusion）
+
+📫 **如何联系我（How to reach me）**:
+- ❗我的微信（Wechat）: BatAug
 <img src="wechat.png" width="100px"/>
 
 - This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Li-Jiaxin-20)
