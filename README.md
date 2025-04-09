@@ -21,12 +21,12 @@ From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing
 - This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 
-**Reports**:
+**报告PPT（Reports）**:
 
 +  [1] 西安交通大学《基于无监督深度学习的高光谱图像超分辨率融合研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xian-Jiaotong-University-PPT/blob/main/李嘉鑫-西安交通大学-高光谱超分2024.12.05.pdf)
 
 
-**Publications**:
+**发表文章（Publications）**:
 +  $\color{red}{[New]}$ Xiaotong Qi, Yang Xu, Ke Zheng, `Jiaxin Li`, Le Yu, Yuhang Zhao.  A Multistage Semi-Supervised Network for Hyperspectral Super-Resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, early access. [Paper link](https://ieeexplore.ieee.org/document/10925401) 
 +  $\color{red}{[New]}$ `Jiaxin Li`, Ke Zheng, Lianru Gao, Zhu Han, Zhi Li, Jocelyn Chanussot.  Enhanced Deep Image Prior for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, early access. [Paper link](https://ieeexplore.ieee.org/document/10845210) [Code](https://github.com/JiaxinLiCAS/EDIP-Net_TGRS)
 +  [1] `Jiaxin Li`, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 1-17. ( ***ESI Highly  cited  Papers*** ) [Paper link](https://ieeexplore.ieee.org/document/10504844) [Code](https://github.com/JiaxinLiCAS/M2U-Net)
