@@ -1,5 +1,5 @@
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
-### 各位好，我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
+### 我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
 
 2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
 
@@ -21,14 +21,15 @@ From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing
 - This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 
-**报告PPT（Reports）**:
+📫**报告PPT（Reports）**:
 
 +  [1] 西安交通大学《基于无监督深度学习的高光谱图像超分辨率融合研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xian-Jiaotong-University-PPT/blob/main/李嘉鑫-西安交通大学-高光谱超分2024.12.05.pdf)
 
 
-**发表文章（Publications）**:
+📫**发表文章（Publications）**:
 +  $\color{red}{[New]}$ Xiaotong Qi, Yang Xu, Ke Zheng, `Jiaxin Li`, Le Yu, Yuhang Zhao.  A Multistage Semi-Supervised Network for Hyperspectral Super-Resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, early access. [Paper link](https://ieeexplore.ieee.org/document/10925401) 
 +  $\color{red}{[New]}$ `Jiaxin Li`, Ke Zheng, Lianru Gao, Zhu Han, Zhi Li, Jocelyn Chanussot.  Enhanced Deep Image Prior for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, early access. [Paper link](https://ieeexplore.ieee.org/document/10845210) [Code](https://github.com/JiaxinLiCAS/EDIP-Net_TGRS)
++   $\color{red}{[New]}$ Ke Zheng, Aiyu Chen, Haoyang Yu,  `Jiaxin Li`, Bing Zhang.Unsupervised Pretraining Framework Guided Hyperspectral and Multispectral Image Fusion[J]. IEEE Geoscience and Remote Sensing Letter, early access. [Paper link](https://ieeexplore.ieee.org/abstract/document/10938186)
 +  [1] `Jiaxin Li`, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 1-17. ( ***ESI Highly  cited  Papers*** ) [Paper link](https://ieeexplore.ieee.org/document/10504844) [Code](https://github.com/JiaxinLiCAS/M2U-Net)
 +  [2] `Jiaxin Li`, Ke Zheng, Zhi Li, Lianru Gao, Xiuping Jia. X-shaped Interactive Autoencoders with Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 1-17. ( ***ESI Highly  cited  Papers*** ) [Paper link](https://ieeexplore.ieee.org/document/10197521) [Code](https://github.com/JiaxinLiCAS/XINet_TGRS)
 +  [3] `Jiaxin Li`, Danfeng Hong, Lianru Gao, Jing Yao, Ke Zheng, Bing Zhang, Jocelyn Chanussot. Deep learning in multimodal remote sensing data fusion: A comprehensive review[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 112: 102926. ( ***ESI Highly  cited  Papers*** and ***ESI  Hot  Paper***) [Paper link](https://www.sciencedirect.com/science/article/pii/S1569843222001248?via%3Dihub)
