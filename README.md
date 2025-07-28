@@ -1,5 +1,6 @@
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 ### 我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
+2025.09——, 就职于重庆邮电大学 计算机科学与技术学院 文峰副教授，韩军伟老师团队
 
 2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
 
@@ -27,6 +28,7 @@ From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing
 
 
 📫**发表文章（Publications）**:
++  $\color{red}{[New]}$ Jin Xu, Yuanchao Su, Xu Sun, `Jiaxin Li`, Haiwei Li, Jianjian Gao. FusGAT: Graph Attention-Based Fusion Network for Unsupervised Hyperspectral Image Super-Resolution[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18, 11610-11622. [Paper link](https://ieeexplore.ieee.org/document/11052309)
 +  $\color{red}{[New]}$ Jia Jia, Haoyang Yu, Chengjun Wang, Ke Zheng, `Jiaxin Li`, Jiaochan Hu. Spectral-Spatial Collaborative Pretraining Framework With Multiconstraint Cooperation for Hyperspectral–Multispectral Image Fusion[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18, 11610-11622. [Paper link](https://ieeexplore.ieee.org/abstract/document/10969559) 
 +  $\color{red}{[New]}$ Qiuhui Wang, Qiong Ran, Ke Zheng, `Jiaxin Li`.Spatiotemporal Fusion Algorithm Based on Multikernal Adaptive Network[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18, 11941-11952. [Paper link](https://ieeexplore.ieee.org/abstract/document/10971924)
 +  $\color{red}{[New]}$ Xiaotong Qi, Yang Xu, Ke Zheng, `Jiaxin Li`, Le Yu, Yuhang Zhao.  A Multistage Semi-Supervised Network for Hyperspectral Super-Resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025，63, 1-17. [Paper link](https://ieeexplore.ieee.org/document/10925401) 
