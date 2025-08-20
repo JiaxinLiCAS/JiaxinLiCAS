@@ -37,7 +37,9 @@ From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing
 
 📫**报告PPT（Reports）**:
 
-+  [1] 西安交通大学《基于无监督深度学习的高光谱图像超分辨率融合研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xian-Jiaotong-University-PPT/blob/main/李嘉鑫-西安交通大学-高光谱超分2024.12.05.pdf)
++  [1] 第二届全国信息地理学大会《基于无监督深度学习的高光谱图像超分辨率重建研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xinxi_dilixue_dahui--PPT-25.8.19/upload/main/第二届全国信息地理学大会.pdf)
++  [2] 西安交通大学《基于无监督深度学习的高光谱图像超分辨率融合研究》报告 [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/Xian-Jiaotong-University-PPT/blob/main/李嘉鑫-西安交通大学-高光谱超分2024.12.05.pdf)
+
 
 
 📫**发表文章（Publications）**:
