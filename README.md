@@ -9,7 +9,7 @@ My English CV can be downloaded here [![Static Badge](https://img.shields.io/bad
 
 My Chinese CV can be downloaded here [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/JiaxinLiCAS/My-Curriculum-Vitae-CV-/blob/main/CV_JiaxinLi_Chinese.pdf).
 
-2025.09——, 就职于重庆邮电大学 计算机科学与技术学院 文峰副教授 $\color{red}{博后导师：韩军伟教授}$ 
+2025.10——, 就职于重庆邮电大学 计算机科学与技术学院 文峰副教授 $\color{red}{博后导师：韩军伟教授}$ 
 【[官网](https://teacher.nwpu.edu.cn/hanjunwei.html)，[谷歌学术主页](https://scholar.google.com/citations?user=xrqsoesAAAAJ&hl=zh-CN&oi=ao)】
 
 2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
@@ -25,14 +25,25 @@ My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMA
 From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
 
 🔭 **我的研究方向（Research-wise, I mainly focus on）**:
-- 高光谱超分辨率融合（hyperspectral and multispectral data fusion）
+
+以城市为研究对象，借助遥感图像和深度学习技术，开展以下方向研究：
+
+1.城市遥感图像底层视觉任务：图像去噪、去雾、去云，图像分辨率提升；
+
+2.城市遥感图像高级解译任务：变化检测、异常探测、分类分割、目标检测
+
+3.山地城市遥感图像地学应用：滑坡、洪水、泥石流检测等
 
 📫 **如何联系我（How to reach me）**:
 - ❗我的微信（Wechat）: BatAug
 <img src="wechat.png" width="100px"/>
 
+- 我的学校官方主页：https://faculty.cqupt.edu.cn/lijiaxin1/zh_CN/index.htm
+  
 - This is my ResearchGate [ResearchGate](https://www.researchgate.net/profile/Li-Jiaxin-20)
+  
 - This is my Google Scholar [Google Scholar](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
+  
 - This is my email: lijiaxin203@mails.ucas.ac.cn
 
 📫**报告PPT（Reports）**:
